@@ -25,7 +25,7 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 
-figlet   "JAWABAN" | lolcat
+figlet   "JAWABAN"
 
 
 echo "     =================================== $green"| lolcat 
